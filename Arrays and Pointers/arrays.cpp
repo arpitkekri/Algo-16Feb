@@ -12,7 +12,7 @@
 #include <iomanip>
 #include <set>
 #include <map>
-
+// #include<bits/stdc++.h>  // By adding this single header file we can add all standard header files
 using namespace std;
 
 void swap(int arr[], int i, int j) {
@@ -55,11 +55,3 @@ int main() {
 
 	return 0;
 }
-
-
-
-
-
-
-
-
